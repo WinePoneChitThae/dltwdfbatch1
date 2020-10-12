@@ -12,3 +12,7 @@ pop up ဘောက်စ်ပေါ်လာရန် သုံးလေ့ရ
 image က self closing tag မဟုတ်ဘူး။ ဒါပေမယ့် self closing tag 
 အနေနဲ့ သုံးချင်ရင် <img src=" " /> နဲ့လည်း သုံးလေ့ရှိပါတယ်။
 image နဲ့ html folder တစ်ခုတည်းမှာဆိုရင် တစ်ခါတည်း ထည့်သုံးလို့ရတယ်။
+
+<div> element division Tag
+
+method မှာထည့်တာ နှစ်ခုရှိတယ်။ GET နဲ့ POST
